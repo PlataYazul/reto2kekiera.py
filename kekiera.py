@@ -1,6 +1,6 @@
 Las siguientes son herramientas utiles con las que es posible ejecutar y/o escribir código.
 - Bloc de notas
-- Python 3.1o
+- Python 3.10
 - VS code
 
 
