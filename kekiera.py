@@ -11,7 +11,6 @@ if __name__ == "__main__" :
   Primero en el bloc de notas como se muestra en la siguiente captura:
   
   
-<a href='https://postimg.cc/kBJmgz0S' target='_blank'><img src='https://i.postimg.cc/kBJmgz0S/Captura-de-pantalla-1.png' border='0' alt='Captura-de-pantalla-1'/></a>
   
   
   
