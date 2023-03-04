@@ -21,7 +21,7 @@ https://github.com/PlataYazul/reto2kekiera.py/blob/d7573f3a59a134ebb32b474775081
     
    Ahora el codigo inicial se ejecuta directamente en el interprete python:
     
-    https://github.com/PlataYazul/reto2kekiera.py/blob/d7573f3a59a134ebb32b4747750816145e71acbf/Captura-de-pantalla-3.png
+https://github.com/PlataYazul/reto2kekiera.py/blob/d7573f3a59a134ebb32b4747750816145e71acbf/Captura-de-pantalla-3.png
       
    Finalmente, en la herramienta VS CODE.
   
