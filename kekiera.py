@@ -9,7 +9,8 @@ if __name__ == "__main__" :
   print("Hola mundo")
   
   Primero en el bloc de notas como se muestra en la siguiente captura consultable en el enlace adjunto:
-    https://i.postimg.cc/nc7c0tT3/Captura-de-pantalla-1.png
+    
+    https://github.com/PlataYazul/reto2kekiera.py/blob/main/Captura-de-pantalla-1.png
       
   En la terminal del sistema luego de guardar el archivo de bloc de notas con la siguiente estructura de nombre "ejemplo.py"
   
