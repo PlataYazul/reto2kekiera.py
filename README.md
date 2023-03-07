@@ -12,7 +12,7 @@ if __name__ == "__main__" :
   
   Primero en el bloc de notas como se muestra en la siguiente captura consultable en el enlace adjunto:
    
-[![Captura-de-pantalla-1.png](https://i.postimg.cc/CKCNKCqR/Captura-de-pantalla-1.png)](https://postimg.cc/qtRnb3Qr)
+[![Captura-de-pantalla-1.png](https://i.postimg.cc/CKCNKCqR/Captura-de-pantalla-1.png)](https://postimg.cc/qtRnb3Qr) 
 
 
    
