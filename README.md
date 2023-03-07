@@ -12,7 +12,7 @@ if __name__ == "__main__" :
   
   Primero en el bloc de notas como se muestra en la siguiente captura consultable en el enlace adjunto:
    
-https://github.com/PlataYazul/reto2kekiera.py/blob/c013fbfd40be7634654cff912d3dbc209535bfdf/Captura-de-pantalla-1.png
+[![Captura-de-pantalla-1.png](https://i.postimg.cc/CKCNKCqR/Captura-de-pantalla-1.png)](https://postimg.cc/qtRnb3Qr)
    
 
   En la terminal del sistema luego de guardar el archivo de bloc de notas con la siguiente estructura de nombre "ejemplo.py"
