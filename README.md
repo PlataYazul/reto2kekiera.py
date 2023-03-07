@@ -19,16 +19,16 @@ if __name__ == "__main__" :
 
   En la terminal del sistema luego de guardar el archivo de bloc de notas con la siguiente estructura de nombre "ejemplo.py"
   
-https://github.com/PlataYazul/reto2kekiera.py/blob/d7573f3a59a134ebb32b4747750816145e71acbf/Captura-de-pantalla-5.png
+[![Captura-de-pantalla-5.png](https://i.postimg.cc/90XRBZ0N/Captura-de-pantalla-5.png)](https://postimg.cc/1nT3mgpp)
     
    Ahora el codigo inicial se ejecuta directamente en el interprete python:
     
-https://github.com/PlataYazul/reto2kekiera.py/blob/d7573f3a59a134ebb32b4747750816145e71acbf/Captura-de-pantalla-3.png
+[![Captura-de-pantalla-3.png](https://i.postimg.cc/L5Zdw0Jq/Captura-de-pantalla-3.png)](https://postimg.cc/tnymVkty)
       
    Finalmente, en la herramienta VS CODE.
   
   
-https://github.com/PlataYazul/reto2kekiera.py/blob/d7573f3a59a134ebb32b4747750816145e71acbf/Captura-de-pantalla-2.png
+[![Captura-de-pantalla-2.png](https://i.postimg.cc/yxTGM4V8/Captura-de-pantalla-2.png)](https://postimg.cc/N25bXn93)
     
     
     Gracias por la atención. 
